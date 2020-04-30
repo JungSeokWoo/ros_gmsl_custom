@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros_gmsl_custom</name>
+  <version>0.0.0</version>
+  <description>The ros_gmsl_custom package</description>
+
+  <maintainer email="nvidia@todo.todo">nvidia</maintainer>
+
+  <license>TODO</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+
+  </export>
+</package>
