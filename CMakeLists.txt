@@ -51,6 +51,10 @@ link_directories(
     ${CMAKE_CURRENT_SOURCE_DIR}/px2Src/glfw-3.2.1/build/src
 )
 
+catkin_package(
+    LIBRARIES ${PROJECT_NAME}
+)
+
 # ------------------------
 # Node n_cameras_driveNet
 
